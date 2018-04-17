@@ -20,7 +20,7 @@ export default class SecondScreen extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to Second Screen!! the value is {this.props.navigation.state.params.text}
+          Welcome to Second Screen!! the value is {this.props.navigation.state.params.text}  asldbashds
         </Text>
 
       </View>
