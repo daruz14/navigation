@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/RCTView.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h

@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.m \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h

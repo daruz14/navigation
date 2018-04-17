@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Modules/RCTExceptionsManager.m \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Modules/RCTExceptionsManager.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/daruz14/Desktop/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/daruz14/Desktop/navigation/node_modules/react-native/React/Base/RCTRootView.h
